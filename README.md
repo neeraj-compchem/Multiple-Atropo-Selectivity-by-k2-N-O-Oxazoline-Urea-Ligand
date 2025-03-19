@@ -1,5 +1,4 @@
 # Multiple-Atropo-Selectivity-by-k2-N-O-Oxazoline-Urea-Ligand
-Supporting code repository for the mentioned article
 This is a data and code repository for the following manuscript:<br>
 "Multiple Atropo Selectivity by <i>κ</i><sup>2</sup>-<i>N</i>,<i>O</i>-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C–H Activations: Decoding Selectivity with Data Science Integration".
 
