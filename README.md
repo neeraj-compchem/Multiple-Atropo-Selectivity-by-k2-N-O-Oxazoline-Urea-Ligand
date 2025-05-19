@@ -35,10 +35,19 @@ mpl_toolkits (matplotlib) = 3.8.4
 seaborn = 0.13.2   
 ```
 
-## How to Cite
-The code is released under the MIT license, permitting commercial use, modification, and private use.  
-**Note:** The manuscript is currently under submission. Please check back here for the final citation once available.
+## How to cite
+The code provided here is released under the MIT license. Commercial use, modification, and private use are all permitted. Please use the following citation to acknowledge this work:
 
-
-## Contact details
-Email: neerajkumar.pandit@uni-goettingen.de; Lutz.Ackermann@chemie.uni-goettingen.de
+```
+@article{https://doi.org/10.1002/ceur.202500071,
+author = {Boos, Philipp and Pandit, Neeraj Kumar and Dana, Suman and von Münchow, Tristan and Hashidoko, Airu and Haberstock, Laura and Herbst-Irmer, Regine and Stalke, Dietmar and Ackermann, Lutz},
+title = {Multiple Atropo Selectivity by κ2-N,O-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C─H Activations: Decoding Selectivity with Data Science Integration},
+journal = {ChemistryEurope},
+volume = {3},
+pages = {2500071},
+doi = {https://doi.org/10.1002/ceur.202500071},
+url = {https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ceur.202500071},
+eprint = {https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/ceur.202500071},
+year = {2025}
+}
+```
