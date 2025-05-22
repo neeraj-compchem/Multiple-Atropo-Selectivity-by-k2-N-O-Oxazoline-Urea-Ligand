@@ -2,8 +2,11 @@
 This is a data and code repository for the following manuscript:<br>
 "Multiple Atropo Selectivity by <i>κ</i><sup>2</sup>-<i>N</i>,<i>O</i>-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C–H Activations: Decoding Selectivity with Data Science Integration".
 
+<p align="center">
+  <img src="img/toc_ChemistryEurope.png" width="50%" />
+</p>
 
-Last updated on Mar 19, 2025
+Last updated on May 22, 2025
 
 ## Overview
 
